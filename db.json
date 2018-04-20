@@ -1,0 +1,76 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "username": "juan",
+      "body": "some comment",
+      "movieId": 1
+    },
+    {
+      "id": 2,
+      "username": "juan",
+      "body": "some comment",
+      "movieId": 2
+    },
+    {
+      "id": 3,
+      "username": "Pedro",
+      "body": "La peli muy aburrida",
+      "movieId": 1622
+    },
+    {
+      "username": "asdf",
+      "body": "asdf",
+      "movieId": "1622",
+      "id": 4
+    },
+    {
+      "username": "asdf",
+      "body": "sdf",
+      "movieId": "1622",
+      "id": 5
+    },
+    {
+      "username": "asdf",
+      "body": "fdsa",
+      "movieId": "1622",
+      "id": 6
+    },
+    {
+      "username": "Angel",
+      "body": "Buena peli",
+      "movieId": "299536",
+      "id": 7
+    },
+    {
+      "username": "asdf",
+      "body": "asdf",
+      "movieId": "299536",
+      "id": 8
+    },
+    {
+      "username": "Hola",
+      "body": "prueba",
+      "movieId": "299536",
+      "id": 9
+    },
+    {
+      "username": "Hola",
+      "body": "prueba",
+      "movieId": "299536",
+      "id": 10
+    },
+    {
+      "username": "Hola",
+      "body": "prueba",
+      "movieId": "299536",
+      "id": 11
+    },
+    {
+      "username": "asdf",
+      "body": "asdf",
+      "movieId": "299536",
+      "id": 12
+    }
+  ]
+}
